@@ -1,4 +1,5 @@
-# Translation App
+# LANGUASPEAK AI Translation App
+![Screenshot (12)](https://github.com/user-attachments/assets/759130a2-0dfa-4173-8d90-1dc2d3f2f834)
 
 ## Tech Stack
 - **Next.js**: Framework for building React-based applications with server-side rendering.
